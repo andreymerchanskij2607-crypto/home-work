@@ -1,0 +1,22 @@
+.calendar {
+  border-collapse: collapse;
+}
+.calendar caption {
+	font-weight: bold;
+	padding: 10px;
+	border: 2px solid black;
+	border-bottom: none;
+}
+
+.calendar th,
+.calendar td {
+	border: 2px solid black;
+	width: 60px;
+	height: 50px;
+	font-size: 20px;
+}
+
+.weekend {
+	color: red;
+	font-weight: bold;
+}
