@@ -1,0 +1,43 @@
+.form {
+	border: 2px solid;
+	max-width: 300px;
+	border-radius: 10px;
+}
+.fieldset-1 {
+	border: none;
+	padding: 4px 2px 4px 4px;
+	margin-left: 4px;
+}
+
+.legend {
+	padding: 8px 2px;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+input {
+	border-radius: 5px;
+	outline: none;
+	border: none;
+}
+
+.area {
+	resize: vertical;
+	max-height: 200px;
+
+	border-radius: 5px;
+	margin: 2px 2px 2px 2px;
+	outline: none;
+	font-size: 16px;
+	min-height: 40px;
+}
+
+.cls {
+	display: block;
+	margin: 2px 0;
+	font-size: 14px;
+}
+
+button {
+	cursor: pointer;
+}
